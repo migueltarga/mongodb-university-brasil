@@ -8,6 +8,7 @@ Cadastre-se no curso para ter acesso aos vídeos (os cursos são **gratuitos**).
 **OBS:** Foi iniciado dia 21/10/2013 uma nova turma para o curso 'MongoDB para desenvolvedores node.js'. Não perca essa oportunidade e se inscreva nele!
 
 Bons estudos!
+
 ---
 
 ### Curso: MongoDB for node.js Developers

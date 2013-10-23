@@ -20,8 +20,41 @@ Bons estudos!
 #### Semana 1 - Introdução
 
 * Welcome to M101JS ✎ 
-* What is MongoDB ✔
-	* What is MongoDB - quiz ✔
+* What is MongoDB ✔ - [Eric Oliveira](https://github.com/eoop)
+	* What is MongoDB - quiz ✔ [Eric Oliveira](https://github.com/eoop)
 * Mongo Relative to Relational ✕
-
+	* Mongo Relative to Relational - quiz ✕ 
+* Overview of Building an App with Mongo ✕
+* System Requirements ✕
+* Installing MongoDB (mac) ✕
+* Installing MongoDB (windows) ✕
+* Quick Introduction to the Mongo Shell ✕
+* JSON Introduced ✕
+* Installing Node.js (mac) ✕
+* Asynchronous vs Synchronous ✕
+* Hello World on Node.js ✕
+* Introduction to npm ✕
+* Hello World MongoDB Style ✕
+* Hello World using Express ✕
+* Hello World using Express and Swig ✕
+* Hello World using Express, Swig and MongoDB ✕
+* Express: Handling GET Requests ✕
+* Express: Handling POST Requests ✕
+* Mongo is Schemaless ✕
+* JSON Revisited ✕
+* JSON Arrays ✕
+	* JSON Arrays - quiz ✕
+* JSON Subdocuments ✕
+*	* JSON Subdocuments - quiz ✕
+* JSON Spec ✕
+* Introduction to Our Class Project, The Blog ✕
+* Blog in Relational Tables ✕
+	* Blog in Relational Tables - quiz ✕
+* Blog in Documents ✕
+	* Blog in Documents ✕
+* Introduction to Schema Design ✕
+	* Introduction to Schema Design - quiz ✕
+* Homework 1.1 ✕
+* Homework 1.2 ✕
+* Homework 1.3 ✕
 

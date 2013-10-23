@@ -23,7 +23,7 @@ Clone o repositório ou faça o "Download ZIP" clicando no botão no fim do menu
 * vídeo sem quiz: 01-01-welcome-to-m101js.srt
 * vídeo com quiz: 01-02-01-what-is-mongodb.srt e 01-02-02-what-is-mongodb-quiz.srt
 
-5. Envie novamente um pull request com a legenda inclusa na pasta srt do repositório. Pronto!
+Envie novamente um pull request com a legenda inclusa na pasta srt do repositório. **Pronto!**
 
 
 Bons estudos!

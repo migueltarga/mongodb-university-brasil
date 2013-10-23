@@ -13,7 +13,7 @@ Clone o repositório ou faça o "Download ZIP" clicando no botão no fim do menu
 Bons estudos!
 
 ---
-#### LEGENDA: ✎ em tradução | ✔ traduzido | ✕ n
+#### LEGENDA: ✎ em tradução | ✔ traduzido | ✕ não traduzido (será traduzido em breve)
 
 ### Curso: MongoDB for node.js Developers
 

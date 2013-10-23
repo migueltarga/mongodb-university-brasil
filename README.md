@@ -7,16 +7,21 @@ Cadastre-se no curso para ter acesso aos vídeos (os cursos são **gratuitos**).
 
 **OBS:** Foi iniciado dia 21/10/2013 uma nova turma para o curso 'MongoDB para desenvolvedores node.js'. Não perca essa oportunidade e se inscreva nele!
 
+## Como baixá-las?
+Clone o repositório ou faça o "Download ZIP" clicando no botão no fim do menu direito. Se escolher a segunda opção, descompacte o arquivo e pegue as legendas!
+
 Bons estudos!
 
 ---
+## LEGENDA: ✎ em tradução | ✔ traduzido | ✕ não traduzio (será traduzido em breve)
 
 ### Curso: MongoDB for node.js Developers
 
 #### Semana 1 - Introdução
 
-* Welcome to M101JS
-* What is MongoDB ✓
-	* What is MongoDB - quiz ✓
+* Welcome to M101JS ✎ 
+* What is MongoDB ✔
+	* What is MongoDB - quiz ✔
+* Mongo Relative to Relational ✕
 
 

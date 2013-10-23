@@ -12,7 +12,7 @@ Clone o repositório ou faça o "Download ZIP" clicando no botão no fim do menu
 
 ## Como ajudar?
 1. Pegue a URL do vídeo na página do curso.
-2. Baixe a legenda do vídeo no YouTube utilizando [este programa](http://mo.dbxdb.com/) (ou algum outro que você conheça, este foi o mais simples que vi).
+2. Baixe a legenda do vídeo do YouTube utilizando [este programa](http://mo.dbxdb.com/) (ou algum outro que você conheça, este foi o mais simples que vi).
 3. Fork o projeto, atualize o README adicionando seu nome na frente do vídeo que você iniciou a tradução, alterando o status do mesmo como mostrado na leganda. ( ✎ em tradução | ✔ traduzido | ✕ não traduzido ) Mande o pull request.
 4. Após feita a tradução, nomeie o arquivo .srt com o seguinte padrão: nn-nn-nn-nome-do-video.srt
 

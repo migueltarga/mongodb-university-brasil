@@ -16,7 +16,7 @@ Bons estudos!
 #### Semana 1 - Introdução
 
 * Welcome to M101JS
-* What is MongoDB || [legenda]()
+* What is MongoDB || [legenda](mongodb-university-brasil/srt/semana-01-introduction)
 	* What is MongoDB - quiz ||
 * Mongo Relative to Relational || [legenda]()
 

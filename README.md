@@ -72,5 +72,5 @@ Bons estudos!
 	* Introduction to Schema Design - quiz ✕
 * Homework 1.1 ✕
 * Homework 1.2 ✕
-* Homework 1.3 ✎
+* Homework 1.3 ✔ [Miguel Targa](https://github.com/migueltarga)
 

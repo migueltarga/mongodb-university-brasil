@@ -1,6 +1,6 @@
 # MongoDB University - Brasil | < o > |
 
-Este projeto irá contribuir com as legendas dos cursos disponibilizados na [MongoDB Univeristy](https://education.mongodb.com). 
+Este projeto irá contribuir com as legendas traduzidas para o português-br dos cursos disponibilizados na [MongoDB Univeristy](https://education.mongodb.com). 
 
 ## Como utilizá-las?
 Cadastre-se no curso para ter acesso aos vídeos (os cursos são **gratuitos**). Após isso, pegue a url do vídeo e baixe o mesmo usando seu programa favorito para tal procedimento. Renomeie seu vídeo com o mesmo nome da legenda e pronto!

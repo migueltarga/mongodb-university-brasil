@@ -1,0 +1,269 @@
+1
+00:00:00,000 --> 00:00:03,000
+Tudo bem, então o que é MongoDB?
+ 
+2
+00:00:03,000 --> 00:00:09,000
+MongoDB é um armazenador de dados não relacional para documentos JSON
+ 
+3
+00:00:09,000 --> 00:00:11,000
+e por não-relacional, queremos dizer que não armazena dados 
+ 
+4
+00:00:11,000 --> 00:00:15,000
+em tabelas, como um banco de dados relacional faz, e sim armazena em 
+ 
+5
+00:00:15,000 --> 00:00:17,000
+documentos JSON.
+ 
+6
+00:00:17,000 --> 00:00:19,000
+Agora todos os banco de dados no mundo, naturalmente, são representados 
+ 
+7
+00:00:19,000 --> 00:00:22,000
+como objetos parecidos com um disco
+ 
+8
+00:00:22,000 --> 00:00:24,000
+Mesmo se nós armazenamos em discos rígidos hoje, nós 
+ 
+9
+00:00:24,000 --> 00:00:27,000
+sempre fazemos um banco de dados se parecer com isso.
+ 
+10
+00:00:27,000 --> 00:00:29,000
+O que é JSON? 
+ 
+11
+00:00:29,000 --> 00:00:32,000
+Bem, JSON significa JavaScript Object Notation,
+ 
+12
+00:00:32,000 --> 00:00:34,000
+e se parece com isso.
+ 
+13
+00:00:34,000 --> 00:00:36,000
+Há uma abertura de parênteses, e há uma
+ 
+14
+00:00:36,000 --> 00:00:37,000
+chave, e então um valor.
+ 
+15
+00:00:37,000 --> 00:00:40,000
+Aqui temos um simples documento JSON, e o documento JSON
+ 
+16
+00:00:40,000 --> 00:00:45,000
+tem a chave nome e o valor Andrew.
+ 
+17
+00:00:45,000 --> 00:00:47,000
+Você pode criar um documento JSON mais complexo.
+ 
+18
+00:00:47,000 --> 00:00:49,000
+Vou lhe mostrar um documento JSON levemente mais complexo.
+ 
+19
+00:00:49,000 --> 00:00:52,000
+Aqui temos um documento JSON um pouco mais complexo.
+ 
+20
+00:00:52,000 --> 00:00:55,000
+Este documento JSON tem 3 diferentes chaves nele, a, b
+ 
+21
+00:00:55,000 --> 00:00:58,000
+e c, e elas estão marcadas como citações ""
+ 
+22
+00:00:58,000 --> 00:01:02,000
+Você vê aqui que há os dois pontos, e "a" tem valor 4, "b" tem
+ 
+23
+00:01:02,000 --> 00:01:05,000
+valor 5, e "c" tem valor 7.
+ 
+24
+00:01:05,000 --> 00:01:09,000
+E estes documentos JSON são armazenados com o MongoDB.
+ 
+25
+00:01:09,000 --> 00:01:11,000
+Mas o que o faz não relacional ?
+ 
+26
+00:01:11,000 --> 00:01:14,000
+Você poderia classificá-los semelhantes a uma tabela?
+ 
+27
+00:01:14,000 --> 00:01:16,000
+É que eles têm um pouco de hierarquia.
+ 
+28
+00:01:16,000 --> 00:01:17,000
+Deixe-me mostrar o caminho
+ 
+29
+00:01:17,000 --> 00:01:20,000
+Um documento JSON com alguma hierarquia.
+ 
+30
+00:01:20,000 --> 00:01:23,000
+Este é um documento JSON com um pouco de hierarquia
+ 
+31
+00:01:23,000 --> 00:01:28,000
+Ele tem uma chave "a", valor 6, chave "b", valor 7
+ 
+32
+00:01:28,000 --> 00:01:32,000
+ e tem uma chave chamada "fruit", que é um array que
+ 
+33
+00:01:32,000 --> 00:01:36,000
+contém os itens apple, pear, e banana.
+ 
+34
+00:01:36,000 --> 00:01:38,000
+E essa é a novidade. Você nunca poderá fazer isso em uma tabela relacional
+ 
+35
+00:01:38,000 --> 00:01:41,000
+Isso é o ponto alto do MongoDB
+ 
+36
+00:01:41,000 --> 00:01:44,000
+Isso é um armazenamento de documentos JSON.
+ 
+37
+00:01:44,000 --> 00:01:46,000
+e nós vamos ver que isso é verdadeiramente útil quando
+ 
+38
+00:01:46,000 --> 00:01:50,000
+escrevemos programas, pois você provavelmente já viu que 
+ 
+39
+00:01:50,000 --> 00:01:54,000
+esta escrita de estrutura de dados se parece com o que você
+ 
+40
+00:01:54,000 --> 00:01:58,000
+tem dentro de seus programas e dados relacionais fazem, onde
+ 
+41
+00:01:58,000 --> 00:02:00,000
+dados relacionais - e todos vocês devem ter visto
+ 
+42
+00:02:00,000 --> 00:02:02,000
+isto antes, provavelmente
+ 
+43
+00:02:02,000 --> 00:02:06,000
+é uma série de tabelas onde temos nomes de colunas ao longo
+ 
+44
+00:02:06,000 --> 00:02:08,000
+do topo e então linhas de dado.
+ 
+45
+00:02:08,000 --> 00:02:12,000
+Isso não corresponde exatamente com o que você usualmente
+ 
+46
+00:02:12,000 --> 00:02:13,000
+faz em seus programas
+ 
+47
+00:02:13,000 --> 00:02:16,000
+e este fato fundamental que o MongoDB armazena documentos é 
+ 
+48
+00:02:16,000 --> 00:02:20,000
+o que o torna tão simples de programar.
+ 
+49
+00:02:20,000 --> 00:02:23,000
+Agora temos outro aspecto do MongoDB que é interessante
+ 
+50
+00:02:23,000 --> 00:02:26,000
+que é o dele ser "schemaless" (sem esquema)
+ 
+51
+00:02:26,000 --> 00:02:27,000
+O que isso significa?
+ 
+52
+00:02:27,000 --> 00:02:31,000
+Bem, schemaless significa que dois documentos não precisam
+ 
+53
+00:02:31,000 --> 00:02:32,000
+ter o mesmo esquema
+ 
+54
+00:02:32,000 --> 00:02:35,000
+Então você pode guardar algo em uma coleção que tenha o
+ 
+55
+00:02:35,000 --> 00:02:37,000
+valor a e b.
+ 
+56
+00:02:37,000 --> 00:02:41,000
+E você pode ver que deixei de fora as aspas em a e b,
+ 
+57
+00:02:41,000 --> 00:02:43,000
+porque elas não são sempre necessárias, embora seja
+ 
+58
+00:02:43,000 --> 00:02:44,000
+seguro mantê-las.
+ 
+59
+00:02:44,000 --> 00:02:46,000
+E você pode ter outro documento na mesma
+ 
+60
+00:02:46,000 --> 00:02:52,000
+coleção que tenha os valores a, b e c.
+ 
+61
+00:02:52,000 --> 00:02:53,000
+Ok, é hora do questionário.
+ 
+62
+00:02:53,000 --> 00:02:55,000
+Qual das afirmações a seguir 
+ 
+63
+00:02:55,000 --> 00:02:56,000
+são verdadeiras sobre o MongoDB?
+ 
+64
+00:02:56,000 --> 00:02:58,000
+MongoDB é orientado a documentos
+ 
+65
+00:02:58,000 --> 00:03:00,000
+MongoDB suporta 'joins'.
+ 
+66
+00:03:00,000 --> 00:03:02,000
+MongoDB é sem esquemas.
+ 
+67
+00:03:02,000 --> 00:03:06,000
+E MongoDB suporta SQL
+ 
+ 

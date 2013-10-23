@@ -10,6 +10,22 @@ Cadastre-se no curso para ter acesso aos vídeos (os cursos são **gratuitos**).
 ## Como baixá-las?
 Clone o repositório ou faça o "Download ZIP" clicando no botão no fim do menu direito. Se escolher a segunda opção, descompacte o arquivo e pegue as legendas!
 
+## Como ajudar?
+1. Pegue a URL do vídeo na página do curso.
+2. Baixe a legenda do vídeo no YouTube utilizando [este programa](http://mo.dbxdb.com/) (ou algum outro que você conheça, este foi o mais simples que vi).
+3. Fork o projeto, atualize o README adicionando seu nome na frente do vídeo que você iniciou a tradução, alterando o status do mesmo como mostrado na leganda. ( ✎ em tradução | ✔ traduzido | ✕ não traduzido ) Mande o pull request.
+4. Após feita a tradução, nomeie o arquivo .srt com o seguinte padrão: nn-nn-nn-nome-do-video.srt
+
+**Explicando:** n = número; caso o mesmo "bloco de vídeo" tenha também um vídeo de resposta (do quiz), adicione mais um grupo de número para identificação do mesmo. Primeira dupla 'n' : Número da semana | Segunda Dupla 'n' : número do vídeo | Terceira dupla 'n' : diferenciar vídeo explicativo do vídeo de resposta do quiz 
+
+###Exemplo: 
+
+* vídeo sem quiz: 01-01-welcome-to-m101js.srt
+* vídeo com quiz: 01-02-01-what-is-mongodb.srt e 01-02-02-what-is-mongodb-quiz.srt
+
+5. Envie novamente um pull request com a legenda inclusa na pasta srt do repositório. Pronto!
+
+
 Bons estudos!
 
 ---
